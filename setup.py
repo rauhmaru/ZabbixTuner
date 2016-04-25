@@ -24,7 +24,7 @@ setup(
     packages=['conf'],
     include_package_data=True,
     zip_safe=False,
-    platforms='any',
+    plataforms='any',
     keywords='zabbix api tuner tuning',
     install_requires=['zabbix-api', 'termcolor'],
     classifiers=[
